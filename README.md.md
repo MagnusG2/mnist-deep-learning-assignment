@@ -20,8 +20,6 @@
 1. Ανοίξτε το αρχείο `MNIST_Deep_Learning_Assignment.ipynb` στο Google Colab.
 2. Επιλέξτε Runtime > Run all.
 3. Περιμένετε να ολοκληρωθούν τα πειράματα και η εκπαίδευση του CNN.
-4. Κατεβάστε ή κρατήστε τα παραγόμενα αρχεία CSV για την τεχνική έκθεση.
-5. Συμπληρώστε στο τελικό έγγραφο το Colab URL και το GitHub Repository URL.
 
 ## Απαιτήσεις
 Το notebook χρησιμοποιεί τις βιβλιοθήκες TensorFlow/Keras, NumPy, Pandas, Matplotlib και scikit-learn. Στο Google Colab οι περισσότερες βιβλιοθήκες είναι ήδη εγκατεστημένες.
